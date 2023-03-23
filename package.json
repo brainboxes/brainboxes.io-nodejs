@@ -1,0 +1,24 @@
+{
+  "name": "@brainboxes/io",
+  "version": "0.9.1",
+  "description": "Monitor and control brainboxes remote IO devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brainboxes",
+    "io",
+    "input",
+    "output",
+    "ed-588",
+    "remote",
+    "ed-008",
+    "ed-516",
+    "ed-527",
+    "ed-004",
+    "ed-204"
+  ],
+  "author": "Brainboxes Ltd",
+  "license": "MIT"
+}
